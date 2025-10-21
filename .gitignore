@@ -1,0 +1,32 @@
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+env/
+venv/
+.venv/
+
+# Jupyter
+.ipynb_checkpoints/
+*.nbconvert.ipynb
+
+# Data outputs
+*.csv
+*.xlsx
+*.zip
+*.sav
+
+# Visual exports
+*.png
+*.jpg
+*.jpeg
+*.pdf
+
+# Logs and temp
+*.log
+*.tmp
